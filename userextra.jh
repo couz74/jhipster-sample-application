@@ -1,0 +1,9 @@
+entity userExtra {
+    User user;
+	phoneNumber String,
+	cocktailInvitation Boolean,
+	dinerInvitation Boolean,
+	presentCocktail Boolean,
+    presentDiner Boolean
+    comment String
+}
